@@ -1,0 +1,1 @@
+This repo contains the project for sign detection which can be used by needed people. for this project i am using python 3.7, tensorflow=2.4.1, tensorflow-gpu=2.4.1 , opencv , mediapipe , matplotlib , numpy and scikit learn
